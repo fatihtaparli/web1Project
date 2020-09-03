@@ -13,7 +13,7 @@
 :root {
     --primary-font: 'Raleway', sans-serif;
     --secondary-font: 'Roboto Condensed', sans-serif;
-    --primary-color: #4792a5;
+    --primary-color: #CFB53B;
     --light-color: #efefef;
     --dark-color: #3c3c3c;
     --general-transition: all .4s ease;
@@ -61,6 +61,7 @@ a {
 img {
     width: 100%;
     max-width: 100%;
+    border-radius: 1rem;
 }
 
 ul {
@@ -231,7 +232,8 @@ ul {
 /** Navigation Menu **/
 
 .nav {
-    background-color: rgba(71, 146, 165, .9);
+    background-color: #CFB53B;
+    opacity: 0.9;
     position: fixed;
     top: 0;
     width: 100%;
