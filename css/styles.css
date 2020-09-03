@@ -773,7 +773,7 @@ ul.social-list li:nth-child(4) a:hover {
 
 /** MEDIA QUERIES **/
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 992px) {
     .navbar-toggler {
         display: block;
         cursor: pointer;
